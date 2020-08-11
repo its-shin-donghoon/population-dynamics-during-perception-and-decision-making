@@ -1,14 +1,16 @@
 # population-dynamics-during-perception-and-decision-making
 population-dynamics-during-perception-and-decision-making
 
-
 Run the LFADS algorithm on an Steinmetz Neuropixel dataset of mice during two alternative forced choice (2-AFC) visual discrimination task.
 This notebook does the following:
 
-Download the Steinmetz dataset. (Steinmetz et al. 2019 Nature)
-Install & run LFADS. (Pandarinath et al. 2018. Nature Methods)
-Save learned LFADS parameters.
-Plot Some figures.
+[Colab notebook](https://colab.research.google.com/drive/125PV8YehFf4hoqJUwfNWVSjip2HqKmIW?usp=sharing)
+
+1. Download the Steinmetz dataset. (Steinmetz et al. 2019 Nature)
+2. Install & run LFADS. (Pandarinath et al. 2018. Nature Methods)
+3. Save learned LFADS parameters.
+4. Plot Some figures.
+
 This project was a group project for Neuromatch Academy, 2020. The notebook is an adjusted form of Computation from dynamics and Neuromatch, steinmetz dataset.
 
 This notebook was verified with Google Colab.
