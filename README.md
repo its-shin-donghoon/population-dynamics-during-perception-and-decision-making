@@ -9,7 +9,7 @@ This [notebook](https://colab.research.google.com/drive/125PV8YehFf4hoqJUwfNWVSj
 3. Save learned LFADS parameters.
 4. Plot Some figures.
 
-This project was a group project for Neuromatch Academy, 2020. The notebook is an adjusted form of Computation from dynamics and Neuromatch, steinmetz dataset.
+This project was a group project for [Neuromatch Academy, 2020](https://www.neuromatchacademy.org/). The notebook is an adjusted form of [Computation from dynamics](https://github.com/google-research/computation-thru-dynamics) and [Neuromatch, steinmetz dataset](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/projects/load_steinmetz_decisions.ipynb).
 
 The project presentation slide is [here](https://docs.google.com/presentation/d/13Mjd04XFDXBRZIrWv_dlvJSJoIX0Oy_1-9OHoacyyGs/edit?usp=sharing).
 
